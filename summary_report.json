@@ -1,0 +1,14 @@
+{
+    "total_unique_potholes": 136,
+    "start_time": "2024-12-12T09:55:06+00:00",
+    "end_time": "2024-12-12T10:17:38+00:00",
+    "start_location": {
+        "latitude": 22.80401833,
+        "longitude": 86.182125
+    },
+    "end_location": {
+        "latitude": 22.80745667,
+        "longitude": 86.14715667
+    },
+    "video_duration_seconds": 457.62
+}
